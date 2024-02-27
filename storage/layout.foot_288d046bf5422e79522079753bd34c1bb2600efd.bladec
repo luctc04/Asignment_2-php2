@@ -1,0 +1,13 @@
+<div id="styleSelector"></div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<?php echo $this->runChild('layout.script'); ?>
+
+</body>
+
+
+</html>
